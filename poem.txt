@@ -1,4 +1,4 @@
-rainbow
+rainbow and unicorn
 
 purple
 pink
@@ -7,4 +7,5 @@ blue
 green
 red
 yellow
-these color are rainbow
+unicorn
+these color are rainbow and unicorn
