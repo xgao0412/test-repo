@@ -6,4 +6,5 @@ orange
 blue
 green
 red
+yellow
 these color are rainbow
