@@ -1,1 +1,9 @@
 rainbow
+
+purple
+pink
+orange
+blue
+green
+red
+these color are rainbow
